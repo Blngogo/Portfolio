@@ -40,7 +40,7 @@ Overall profile: [dimah7](https://audits.sherlock.xyz/watson/dimah7) - Total fin
 
 ## Audit contest judging
 
-Currently #11 on Sherlock's all-time judging leaderboard: [dimah7](https://audits.sherlock.xyz/leaderboards?l=judging)
+Currently #10 on Sherlock's all-time judging leaderboard: [dimah7](https://audits.sherlock.xyz/leaderboards?l=judging)
 
 |Contest|Total reports judged|Rank|Reward|
 |:------|:-------------------|:---|:----:|

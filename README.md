@@ -9,7 +9,7 @@ Public/private smart contract security audits, public audit contest findings, sm
 |Protocol|Description|Report|
 |:------|:----------|:-----|
 |[Biconomy-Composability](https://github.com/bcnmy/composability)|Transaction Builder|[link](https://github.com/bcnmy/composability/blob/main/audits/2025-03-Composability-Pashov-Review.pdf)|
-|TBD|Interaction toolkit and Bridge|TBD|
+|[Tanssi-Symbiotic](https://github.com/moondance-labs/tanssi-symbiotic)|Interaction toolkit and Bridge|[link](https://github.com/pashov/audits/blob/master/team/pdf/Tanssi-security-review_2025-04-30.pdf)|
 |TBD|Trading strategies|TBD|
 
 ## Public audit contests

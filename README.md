@@ -14,7 +14,7 @@ Public/private smart contract security audits, public audit contest findings, sm
 
 ## Public audit contests
 
-Overall profile: [dimah7](https://audits.sherlock.xyz/watson/dimah7) - Total findings: 20 High, 26 Med (2 Unique)
+Overall profile: [dimah7](https://audits.sherlock.xyz/watson/dimah7) - Total findings: 24 High, 31 Med (2 Unique)
 
 |Contest|Description|Findings|Rank|Report|
 |:------|:----------|:-------|:--:|:----:|
@@ -27,6 +27,7 @@ Overall profile: [dimah7](https://audits.sherlock.xyz/watson/dimah7) - Total fin
 |[Winnables Raffles](https://audits.sherlock.xyz/contests/516?filter=questions)|Raffle|1 Med|#24|[link](https://audits.sherlock.xyz/contests/516/report)|
 |[LEND](https://audits.sherlock.xyz/contests/908?filter=questions)|Cross-chain lending/borrowing|4 High, 2 Med|#25|[link](https://audits.sherlock.xyz/contests/908/report)|
 |[Sentiment V2](https://audits.sherlock.xyz/contests/349?filter=questions)|Lending/Borrowing|2 Med|#31|[link](https://audits.sherlock.xyz/contests/349/report)|
+|[Rezerve Money](https://audits.sherlock.xyz/contests/1134?filter=questions)|Treasury Accumulation|4 High, 3 Med|-|Private|
 |[Phi](https://code4rena.com/audits/2024-08-phi)|Credentialing system|1 Med|-|[link](https://code4rena.com/reports/2024-08-phi)|
 |[Royco](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602)|Incentivized Action Market|1 High, 2 Med|-|Private|
 |[Mighty Finance](https://cantina.xyz/competitions/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef)|CLMM|3 High, 1 Med|-|Private|
@@ -44,6 +45,8 @@ Currently #10 on Sherlock's all-time judging leaderboard: [dimah7](https://audit
 
 |Contest|Total reports judged|Rank|Reward|
 |:------|:-------------------|:---|:----:|
+|[Inverse Finance](https://audits.sherlock.xyz/contests/1202)|618|Lead Judge|$2000|
+|[SuperDCA](https://audits.sherlock.xyz/contests/1171)|1012|Lead Judge|1600 OP|
 |[Stakelink](https://codehawks.cyfrin.io/c/2024-09-stakelink)|1158|#2 (91,85% accuracy)|$750|
 |[LEND](https://audits.sherlock.xyz/contests/908?filter=questions)|1034|#2|$337|
 |[ExtraFi XLend](https://audits.sherlock.xyz/contests/826?filter=questions)|Private|#2|$390|

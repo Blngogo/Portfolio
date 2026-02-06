@@ -6,7 +6,7 @@ Public/private smart contract security audits, public audit contest findings, sm
 
 ### Pashov Audit Group
 
-|Contest|Description|Report|
+|Protocol|Description|Report|
 |:------|:----------|:-----|
 |[Biconomy-Composability](https://github.com/bcnmy/composability)|Transaction Builder|[link](https://github.com/bcnmy/composability/blob/main/audits/2025-03-Composability-Pashov-Review.pdf)|
 |TBD|Interaction toolkit and Bridge|TBD|
